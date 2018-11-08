@@ -3,7 +3,7 @@ public class gujgk {
     {
         System.out.println("23");
 
-
+        System.out.println();
 
 
     }
